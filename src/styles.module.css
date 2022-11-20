@@ -73,6 +73,10 @@ li:hover{
     top: 30%;
 }
 
+.mt {
+    margin-top: 5em;
+}
+
 .mainText{
     color: firebrick;
     text-shadow: -1px 1px 2px #000,
@@ -94,4 +98,13 @@ li:hover{
     width: 30%;
     border: 1px black solid;
     border-radius: 10px;
+}
+
+.typographyStyle {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.googleButton {
+    margin-left: 100px;
 }
